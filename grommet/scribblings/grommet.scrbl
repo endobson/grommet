@@ -12,7 +12,7 @@
 
 by Ray Racine (@tt{ray dot racine at gmail dot com})
 
-Provides a pure Typed Racket implementation of SHA-256 and typed wrappers for existing functions sucha as Base64 encoding, SHA-1 and MD-5.
+Provides a pure Typed Racket implementation of SHA-256 and typed wrappers for existing functions such as Base64 encoding, SHA-1 and MD-5.
 
 @section{Base64}
 
